@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-22T13:07:53.157Z</updated>
+  <updated>2017-02-27T10:30:38.145Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,65 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>核武器基本概念及分类 - Part. 3</title>
+    <link href="http://yoursite.com/2017/02/27/%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%88%86%E7%B1%BB%20-%20Part.%203/"/>
+    <id>http://yoursite.com/2017/02/27/核武器基本概念及分类 - Part. 3/</id>
+    <published>2017-02-26T16:00:00.000Z</published>
+    <updated>2017-02-27T10:30:38.145Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="【2-核武器分类】"><a href="#【2-核武器分类】" class="headerlink" title="【2 核武器分类】"></a>【2 核武器分类】</h1><hr>
+<h2 id="【2-2-核武器分类及各类核武器设计原理简介】"><a href="#【2-2-核武器分类及各类核武器设计原理简介】" class="headerlink" title="【2.2 核武器分类及各类核武器设计原理简介】"></a>【2.2 核武器分类及各类核武器设计原理简介】</h2><h3 id="〖2-2-1-纯裂变武器Pure-Fission-Weapons〗"><a href="#〖2-2-1-纯裂变武器Pure-Fission-Weapons〗" class="headerlink" title="〖2.2.1 纯裂变武器Pure Fission Weapons〗"></a>〖2.2.1 纯裂变武器Pure Fission Weapons〗</h3><h4 id="〖2-2-1-1-纯裂变武器简介〗"><a href="#〖2-2-1-1-纯裂变武器简介〗" class="headerlink" title="〖2.2.1.1 纯裂变武器简介〗"></a>〖2.2.1.1 纯裂变武器简介〗</h4><p>纯裂变武器是仅利用核裂变作为能量来源的核武器，其原理是通过化学炸药爆炸，将临界质量下的裂变材料（钚或是高浓度铀）挤压成超越临界质量的物质，继而诱发链式反应。具体来说，在裂变反应发生伊始，核裂变所释放出来的中子会撞击其临近的铀/钚原子核并使之发生裂变。由此，发生裂变的原子数量以指数的速度上升，这就是链式反应。</p>
+<a id="more"></a>
+<p>人类史上第一个核装置即为纯裂变武器——在著名的“三位一体”核试验中于1945年7月16日试爆的名为Gadget（经常被译作“小玩意儿”）的裂变武器。而核爆广岛、长崎的“小男孩”和“胖子”也是纯裂变武器，具体来说，广岛的“小男孩”是枪式起爆的铀裂变弹，而长崎的“胖子”则为内爆式起爆的钚裂变弹。（有关枪式起爆及内爆式起爆的具体内容会在下文展开）</p>
+<p>纯裂变武器是入门级核武器，也是进一步研发其他任何一种核武器的基石。由于现代核武器（二相弹氢弹）都需要纯裂变装置作为初级，因此严格意义上二相弹便是裂变/聚变混合物器，这也就使得纯裂变核武器成为了通向现代核武器之路的第一道门坎。除联合国五大常任理事国（五大流氓）外，以色列、印度、南非、巴基斯坦、朝鲜也被认为是纯裂变武器的拥有者。其中，以色列、南非是纯裂变武器的疑似拥有国。</p>
+<p>下图即为三位一体核试验前的Gadget，摄于1945年7月</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd576fvj2sj20ci09m74j" alt=""></p>
+<h4 id="〖2-2-1-2-纯裂变武器设计的理论核心〗"><a href="#〖2-2-1-2-纯裂变武器设计的理论核心〗" class="headerlink" title="〖2.2.1.2 纯裂变武器设计的理论核心〗"></a>〖2.2.1.2 纯裂变武器设计的理论核心〗</h4><p>纯裂变武器共有两种主流设计，<strong>枪式</strong>和<strong>内爆式</strong>。但在介绍这两种设计前，我们还需要理解纯裂变武器设计的理论核心。</p>
+<p>首先，我将对次临界状态和超临界状态的概念进行必要的补充。次临界状态和超临界状态的概念是由临界质量这一概念引申出来的。临界质量是指能够维持核材料链式裂变反应所需的裂变材料最小装量。裂变材料的临界质量并不是固定不变的，相反，它会随着核裂变材料性质、几何形状以及密度的改变而改变。当某种裂变材料的实际质量低于临界质量，那么该裂变材料处于次临界状态；同理，当其实际质量高于甚至数倍于临界质量，那么该裂变材料则处于超临界质量。因此，通过改变核材料的几何形状及密度，我们就能够在核材料实际质量不变的前提下改变其临界质量的大小，继而改变“裂变材料质量与其临界质量”间的比值，从而实现裂变材料从次临界状态到超临界状态的跨越。</p>
+<p><strong>裂变武器设计的理论核心：</strong></p>
+<ol>
+<li><p>在引爆前将裂变物质控制在临界状态之下，即裂变材料处于次临界状态</p>
+</li>
+<li><p>使裂变物质由次临界状态进入超临界状态</p>
+</li>
+<li><p>当裂变物质到达最大超临界状态时引入中子射流开始链式反应</p>
+</li>
+<li><p>将裂变物质控制在一起，直到足够比重的裂变物质参与链式反应</p>
+</li>
+</ol>
+<p>虽然使裂变材料进入超临界状态是实现链式反应得关键，但光获得链式反应还不够，我们需要的是极高反应速率下的链式反应，这样才能保证在极短的时间内，在裂变物质四分五裂前，让尽可能多的裂变材料参与反应。因此，通常来说需要三倍于临界质量的超临界裂变材料才能获得可观的裂变反应速率。也就是说，“超临界状态裂变材料与临界质量间的比值”越大，其链式反应的速率也就越高</p>
+<p>前面已经说到，临界质量与材料本身形状、密度、性质有关，因此对裂变材料的密度形状加以改变，其临界质量也会随之改变。这里有一个关键概念，<strong>裂变材料的临界质量与其密度的平方呈反比</strong>。也就是说，裂变材料装量/质量一定的前提下，其密度越大，临界质量越小，那么“超临界状态裂变材料与临界质量间的比值”也就越大，其链式反应速率也就相应越高</p>
+<p>所以，设计一种裂变材料密度可在极短时间内被提高的武器结构，就可以在极短时间内实现“超临界裂变材料与临界质量间的比值”翻倍的目的，也就由此获得极高反应速率的。举个例子，将某种即将进入超临界状态的临界状态裂变材料密度翻倍，我们就瞬间得到了接近4倍于临界质量的裂变材料。因此，纯裂变武器的两大发展方向（枪式设计和内爆式设计）都应用了这种短时间内增加裂变材料密度以达到“超临界状态裂变材料与临界质量间比值”倍增的设计思路。而在裂变材料装量/质量一定的前提下，球状装料是最佳选择。因此，采用球状装料的内爆式设计成为后来有核国家以及拥核国家的主要发展方向。</p>
+<p>次临界状态及超临界状态下链式反应示意图：</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd578x79fmj20ci08c74i" alt=""></p>
+<hr>
+<h4 id="〖2-2-1-3-枪式裂变武器Gun-type-fission-weapons〗"><a href="#〖2-2-1-3-枪式裂变武器Gun-type-fission-weapons〗" class="headerlink" title="〖2.2.1.3 枪式裂变武器Gun-type fission weapons〗"></a>〖2.2.1.3 枪式裂变武器Gun-type fission weapons〗</h4><h5 id="〖2-2-1-3-1-枪式裂变武器原理简介〗"><a href="#〖2-2-1-3-1-枪式裂变武器原理简介〗" class="headerlink" title="〖2.2.1.3.1 枪式裂变武器原理简介〗"></a>〖2.2.1.3.1 枪式裂变武器原理简介〗</h5><p>枪式裂变武器的代表是“小男孩”原子弹，其原理是将一块临界质量下的裂变材料射向另一块临界质量下的裂变材料，由此使得裂变材料进入超临界状态。典型的枪式设计是：两块低于临界质量的部分（即处于次临界状态）被置于管状物内（该管状物常被称作“枪管”），其中一块裂变材料被制成半径较大的中空柱状发射物（“弹丸”），另一块则被制成半径较小的实心圆柱体（“目标”）。然后中空的“弹丸”被射向并套住实心的“目标”，后者正好填上前者的空洞。于是，两块次临界裂变材料结合后，其有效密度大大提升，其临界质量也随之下降（裂变材料密度越大临界质量越小），由此实现了“超临界状态裂变材料与临界质量间比值”倍增的目的。一般在枪式设计中，两块次临界裂变材料结合后，其与临界质量的比值为3，也就是说，结合后的裂变材料进入超临界状态且3倍于临界质量。</p>
+<p>枪式裂变武器涉及在管状物内发射弹丸状裂变材料，因此得名“枪式”。下图即为枪式设计的示意图：</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd57cymh3kj20fg0a93ys" alt=""></p>
+<p>当然，由于枪式设计的本质是两块次临界状态裂变材料的“鹊桥相会”。所以枪式设计有时候也被描述为：两块半球形次临界状态裂变物质被合到一起从而形成一个超临界状态裂变物质球体。下图即为枪式理论的抽象示意图，这种描述可以理解为抓住了枪式设计的本质。</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd57dgl4egj20go09lmxi" alt=""></p>
+<p>此外，上文〖2.2.1.2 纯裂变武器设计的理论核心〗中已经提到，裂变武器设计的理论核心之一是要赶在裂变物质炸得四分五裂前、在极短的时间内实现由“次临界状态”向“超临界状态”的跨越，由但于枪式设计中“将一块裂变材料射向另一块裂变材料”的动作相对较慢，因此这就使得这种设计对裂变材料本身的性质要求很高。一般而言，钚是不适宜应用于枪式设计的，除非是纯钚-239。然而要生产不含杂质的纯钚-239难度非常大，因此在技术远不如今天发达的半个多世纪前，枪式设计往往采用浓缩铀，比如小男孩原子弹的裂变材料主体就是89%的铀-235。</p>
+<h5 id="〖2-2-1-3-2-从小男孩原子弹看枪式设计〗"><a href="#〖2-2-1-3-2-从小男孩原子弹看枪式设计〗" class="headerlink" title="〖2.2.1.3.2 从小男孩原子弹看枪式设计〗"></a>〖2.2.1.3.2 从小男孩原子弹看枪式设计〗</h5><p>正如上文所说，小男孩原子弹是枪式裂变武器的代表，使用铀-235作为其裂变材料。小男孩所使用的裂变材料被分为两块，一块是作为“弹丸”的中空柱状发射物，另一块是作为“目标”的实心柱状物。中空的“弹丸”由39千克浓缩铀构成，直径15.9厘米，长17.8厘米。实心的“目标”则由26千克浓缩铀构成。“弹丸”加“目标”重64千克，这也是小男孩原子弹所含浓缩铀的总重。下图，上方的红色柱状物即为“弹丸”，下方的红色柱状物即为“目标”。</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd57ev4igmj207b0go74b" alt=""></p>
+<p>小男孩原子弹充当“枪管”的管状物直径16.5厘米，总长1.8米，能够让“弹丸”在接触“目标”前被加速到300米/秒的速度。下图即为胖子原子弹（上）、小男孩原子弹（下）对比图，可以明显看到，因为“枪管”的存在，小男孩的弹体更长。</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd57fesptnj20go0m2dh1" alt=""></p>
+<p>要解释这枪管长达1.8米的必要性，就需要引入“提前爆炸”这个概念。当“弹丸”临近“目标”时，其有效密度不断增大且开始接近或进入超临界状态。假如“弹丸”速度不够快，那么很可能在“弹丸”套住“目标”之前就已经发生链式反应。虽然此时的链式反应速率还不高，但仍然不能排除提前爆炸的可能性。而如若发生提前爆炸，那么尚未完全接触的“弹丸”和“目标”就会被炸得四分五裂，使得裂变材料不能充分参与反应，核武器的爆炸威力就会大大减弱。因此，如果要解决提前爆炸的问题，就必须加长“枪管”长度，由此提高“弹丸”接触“目标”前的速度，争取在链式反应开始前让两者充分接触，避免提前爆炸的发生。但无疑，更长的“枪管”意味着更加笨重的弹体，核弹投放难度也会随之上升。下图即为“提前爆炸”的示意图：</p>
+<p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fd57g0mirjj20cv0c0wff" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;【2-核武器分类】&quot;&gt;&lt;a href=&quot;#【2-核武器分类】&quot; class=&quot;headerlink&quot; title=&quot;【2 核武器分类】&quot;&gt;&lt;/a&gt;【2 核武器分类】&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;【2-2-核武器分类及各类核武器设计原理简介】&quot;&gt;&lt;a href=&quot;#【2-2-核武器分类及各类核武器设计原理简介】&quot; class=&quot;headerlink&quot; title=&quot;【2.2 核武器分类及各类核武器设计原理简介】&quot;&gt;&lt;/a&gt;【2.2 核武器分类及各类核武器设计原理简介】&lt;/h2&gt;&lt;h3 id=&quot;〖2-2-1-纯裂变武器Pure-Fission-Weapons〗&quot;&gt;&lt;a href=&quot;#〖2-2-1-纯裂变武器Pure-Fission-Weapons〗&quot; class=&quot;headerlink&quot; title=&quot;〖2.2.1 纯裂变武器Pure Fission Weapons〗&quot;&gt;&lt;/a&gt;〖2.2.1 纯裂变武器Pure Fission Weapons〗&lt;/h3&gt;&lt;h4 id=&quot;〖2-2-1-1-纯裂变武器简介〗&quot;&gt;&lt;a href=&quot;#〖2-2-1-1-纯裂变武器简介〗&quot; class=&quot;headerlink&quot; title=&quot;〖2.2.1.1 纯裂变武器简介〗&quot;&gt;&lt;/a&gt;〖2.2.1.1 纯裂变武器简介〗&lt;/h4&gt;&lt;p&gt;纯裂变武器是仅利用核裂变作为能量来源的核武器，其原理是通过化学炸药爆炸，将临界质量下的裂变材料（钚或是高浓度铀）挤压成超越临界质量的物质，继而诱发链式反应。具体来说，在裂变反应发生伊始，核裂变所释放出来的中子会撞击其临近的铀/钚原子核并使之发生裂变。由此，发生裂变的原子数量以指数的速度上升，这就是链式反应。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="武器" scheme="http://yoursite.com/tags/%E6%AD%A6%E5%99%A8/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -41,7 +100,7 @@
     <link href="http://yoursite.com/2017/02/22/%E6%A0%B8%E6%AD%A6%E5%99%A8%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%88%86%E7%B1%BB%20-%20Part.%202/"/>
     <id>http://yoursite.com/2017/02/22/核武器基本概念及分类 - Part. 2/</id>
     <published>2017-02-21T16:00:00.000Z</published>
-    <updated>2017-02-22T11:01:03.678Z</updated>
+    <updated>2017-02-27T10:33:05.015Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h1 id="【2-核武器分类】"><a href="#【2-核武器分类】" class="headerlink" title="【2 核武器分类】"></a>【2 核武器分类】</h1><hr>
 <h2 id="【2-1-类别的划分以及“代”的划分】"><a href="#【2-1-类别的划分以及“代”的划分】" class="headerlink" title="【2.1 类别的划分以及“代”的划分】"></a>【2.1 类别的划分以及“代”的划分】</h2><h3 id="〖2-1-1-类别划分——“纯裂变武器”及“裂变-聚变混合武器”〗"><a href="#〖2-1-1-类别划分——“纯裂变武器”及“裂变-聚变混合武器”〗" class="headerlink" title="〖2.1.1 类别划分——“纯裂变武器”及“裂变/聚变混合武器”〗"></a>〖2.1.1 类别划分——“纯裂变武器”及“裂变/聚变混合武器”〗</h3><p>严格意义上，目前技术条件下仅有两类核武器，“纯裂变武器”和“非纯裂变武器”。由于“非纯裂变武器”与“裂变/聚变混合武器”等价，因此核武器分类也可以表达为“纯裂变武器Pure Fission Weapons”以及“裂变/聚变混合武器CombinedFission/Fusion Weapons”。</p>
@@ -82,8 +141,7 @@
 </li>
 </ol>
 <p>第三代核武器的发展方向虽然有很多，但真正投入资源并且获得成果的方向却并不多。<strong>严格来说，只有ERW增强辐射武器和EPW钻地弹头这两个方向取得了成功。</strong></p>
-<p><strong>〖2.1.2.2.1 增强辐射武器ERW〗</strong></p>
-<p>增强辐射武器的代表就是中子弹。在美帝核武库中，最著名的中子弹就是W70-3核导弹弹头和W79-0核炮弹弹头</p>
+<h4 id="〖2-1-2-2-1-增强辐射武器ERW〗"><a href="#〖2-1-2-2-1-增强辐射武器ERW〗" class="headerlink" title="〖2.1.2.2.1 增强辐射武器ERW〗"></a>〖2.1.2.2.1 增强辐射武器ERW〗</h4><p>增强辐射武器的代表就是中子弹。在美帝核武库中，最著名的中子弹就是W70-3核导弹弹头和W79-0核炮弹弹头</p>
 <p><strong>〖W70-3〗</strong></p>
 <p>W70-3是为MGM-52“长矛”战术弹道导弹研发的中子弹弹头，也是人类历史上第一款投入现役并列装的中子弹，当量1000吨。W70-3的量产时间为1981年8月到1983年2月，于1992年全部退役，制造总数为380枚。</p>
 <p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fczefxo7ukj20b30etjs0" alt=""></p>
@@ -96,8 +154,7 @@
 <blockquote>
 <p>参考文献： Taylor, T B 1987, “Third-generation nuclear weapons”, Scientific American, Vol. 256, No. 4, pp. 30-39.</p>
 </blockquote>
-<p><strong>〖2.1.2.2.2 钻地弹头EPW〗</strong></p>
-<p>钻地弹头中最为著名的是B61-12。B61-12（或者说B-61 Mod 12），是B61核炸弹的第12种改进型。在2013年10月29日举行的国会听证会上，B61的更新计划被首次提出，计划生产一种当量在300吨到5万吨之间的钻地核炸弹。后来，B61-12的研发重任落到了桑迪亚国家实验室的肩上（万恶的桑迪亚）。</p>
+<h4 id="〖2-1-2-2-2-钻地弹头EPW〗"><a href="#〖2-1-2-2-2-钻地弹头EPW〗" class="headerlink" title="〖2.1.2.2.2 钻地弹头EPW〗"></a>〖2.1.2.2.2 钻地弹头EPW〗</h4><p>钻地弹头中最为著名的是B61-12。B61-12（或者说B-61 Mod 12），是B61核炸弹的第12种改进型。在2013年10月29日举行的国会听证会上，B61的更新计划被首次提出，计划生产一种当量在300吨到5万吨之间的钻地核炸弹。后来，B61-12的研发重任落到了桑迪亚国家实验室的肩上（万恶的桑迪亚）。</p>
 <p>下图为2014年风洞测试中的B61-12，图中为全尺寸风洞模型，非实弹</p>
 <p><img src="http://ww1.sinaimg.cn/large/6b9f39dfly1fczel4l70pj20g409tgma" alt=""></p>
 <p>下图为2015年飞行测试前的B61-12，，因《全面禁止核试验条约CTBT》的限制，2015年试验过程中未装弹头。</p>
@@ -207,6 +264,26 @@
   </entry>
   
   <entry>
+    <title>从法拉第到乔布斯，手机把生活装进口袋</title>
+    <link href="http://yoursite.com/2017/01/17/%E4%BB%8E%E6%B3%95%E6%8B%89%E7%AC%AC%E5%88%B0%E4%B9%94%E5%B8%83%E6%96%AF%EF%BC%8C%E6%89%8B%E6%9C%BA%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%A3%85%E8%BF%9B%E5%8F%A3%E8%A2%8B/"/>
+    <id>http://yoursite.com/2017/01/17/从法拉第到乔布斯，手机把生活装进口袋/</id>
+    <published>2017-01-16T16:00:00.000Z</published>
+    <updated>2017-01-17T13:03:06.661Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
+    
+    </summary>
+    
+    
+      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Illustrating Animals With 13 Circles-A Tutorial And Drawing Challenge</title>
     <link href="http://yoursite.com/2017/01/17/Illustrating_Animals_With_13_Circles/"/>
     <id>http://yoursite.com/2017/01/17/Illustrating_Animals_With_13_Circles/</id>
@@ -227,11 +304,11 @@
   </entry>
   
   <entry>
-    <title>从法拉第到乔布斯，手机把生活装进口袋</title>
-    <link href="http://yoursite.com/2017/01/17/%E4%BB%8E%E6%B3%95%E6%8B%89%E7%AC%AC%E5%88%B0%E4%B9%94%E5%B8%83%E6%96%AF%EF%BC%8C%E6%89%8B%E6%9C%BA%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%A3%85%E8%BF%9B%E5%8F%A3%E8%A2%8B/"/>
-    <id>http://yoursite.com/2017/01/17/从法拉第到乔布斯，手机把生活装进口袋/</id>
-    <published>2017-01-16T16:00:00.000Z</published>
-    <updated>2017-01-17T13:03:06.661Z</updated>
+    <title>知道那个很火的薛之谦H5，是怎么设计出来的吗？</title>
+    <link href="http://yoursite.com/2017/01/16/%E7%9F%A5%E9%81%93%E9%82%A3%E4%B8%AA%E5%BE%88%E7%81%AB%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6H5%EF%BC%8C%E6%98%AF%E6%80%8E%E4%B9%88%E8%AE%BE%E8%AE%A1%E5%87%BA%E6%9D%A5%E7%9A%84%E5%90%97%EF%BC%9F/"/>
+    <id>http://yoursite.com/2017/01/16/知道那个很火的薛之谦H5，是怎么设计出来的吗？/</id>
+    <published>2017-01-15T16:00:00.000Z</published>
+    <updated>2017-02-22T11:06:57.347Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     
@@ -263,46 +340,6 @@
     
     
       <category term="穿搭" scheme="http://yoursite.com/tags/%E7%A9%BF%E6%90%AD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>知道那个很火的薛之谦H5，是怎么设计出来的吗？</title>
-    <link href="http://yoursite.com/2017/01/16/%E7%9F%A5%E9%81%93%E9%82%A3%E4%B8%AA%E5%BE%88%E7%81%AB%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6H5%EF%BC%8C%E6%98%AF%E6%80%8E%E4%B9%88%E8%AE%BE%E8%AE%A1%E5%87%BA%E6%9D%A5%E7%9A%84%E5%90%97%EF%BC%9F/"/>
-    <id>http://yoursite.com/2017/01/16/知道那个很火的薛之谦H5，是怎么设计出来的吗？/</id>
-    <published>2017-01-15T16:00:00.000Z</published>
-    <updated>2017-02-22T11:06:57.347Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
-    
-    </summary>
-    
-    
-      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一大波鸡年贺年卡来袭！</title>
-    <link href="http://yoursite.com/2017/01/14/%E4%B8%80%E5%A4%A7%E6%B3%A2%E9%B8%A1%E5%B9%B4%E8%B4%BA%E5%B9%B4%E5%8D%A1%E6%9D%A5%E8%A2%AD%EF%BC%81/"/>
-    <id>http://yoursite.com/2017/01/14/一大波鸡年贺年卡来袭！/</id>
-    <published>2017-01-13T16:00:00.000Z</published>
-    <updated>2017-02-22T11:03:37.819Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
-    
-    </summary>
-    
-    
-      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
@@ -358,11 +395,11 @@
   </entry>
   
   <entry>
-    <title>灵感知识两不误！10个提供LOGO设计灵感的创意网站</title>
-    <link href="http://yoursite.com/2017/01/13/%E7%81%B5%E6%84%9F%E7%9F%A5%E8%AF%86%E4%B8%A4%E4%B8%8D%E8%AF%AF%EF%BC%8110%E4%B8%AA%E6%8F%90%E4%BE%9BLOGO%E8%AE%BE%E8%AE%A1%E7%81%B5%E6%84%9F%E7%9A%84%E5%88%9B%E6%84%8F%E7%BD%91%E7%AB%99/"/>
-    <id>http://yoursite.com/2017/01/13/灵感知识两不误！10个提供LOGO设计灵感的创意网站/</id>
-    <published>2017-01-12T16:00:00.000Z</published>
-    <updated>2017-02-22T11:04:36.309Z</updated>
+    <title>一大波鸡年贺年卡来袭！</title>
+    <link href="http://yoursite.com/2017/01/14/%E4%B8%80%E5%A4%A7%E6%B3%A2%E9%B8%A1%E5%B9%B4%E8%B4%BA%E5%B9%B4%E5%8D%A1%E6%9D%A5%E8%A2%AD%EF%BC%81/"/>
+    <id>http://yoursite.com/2017/01/14/一大波鸡年贺年卡来袭！/</id>
+    <published>2017-01-13T16:00:00.000Z</published>
+    <updated>2017-02-22T11:03:37.819Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     
@@ -395,6 +432,46 @@
     
     
       <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>灵感知识两不误！10个提供LOGO设计灵感的创意网站</title>
+    <link href="http://yoursite.com/2017/01/13/%E7%81%B5%E6%84%9F%E7%9F%A5%E8%AF%86%E4%B8%A4%E4%B8%8D%E8%AF%AF%EF%BC%8110%E4%B8%AA%E6%8F%90%E4%BE%9BLOGO%E8%AE%BE%E8%AE%A1%E7%81%B5%E6%84%9F%E7%9A%84%E5%88%9B%E6%84%8F%E7%BD%91%E7%AB%99/"/>
+    <id>http://yoursite.com/2017/01/13/灵感知识两不误！10个提供LOGO设计灵感的创意网站/</id>
+    <published>2017-01-12T16:00:00.000Z</published>
+    <updated>2017-02-22T11:04:36.309Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
+    
+    </summary>
+    
+    
+      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AI基础教程！教你创建矢量扁平地图</title>
+    <link href="http://yoursite.com/2017/01/12/AI%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%81%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E7%9F%A2%E9%87%8F%E6%89%81%E5%B9%B3%E5%9C%B0%E5%9B%BE/"/>
+    <id>http://yoursite.com/2017/01/12/AI基础教程！教你创建矢量扁平地图/</id>
+    <published>2017-01-11T16:00:00.000Z</published>
+    <updated>2017-02-22T11:07:38.906Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
+    
+    </summary>
+    
+    
+      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
@@ -481,57 +558,6 @@
   </entry>
   
   <entry>
-    <title>AI基础教程！教你创建矢量扁平地图</title>
-    <link href="http://yoursite.com/2017/01/12/AI%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%81%E6%95%99%E4%BD%A0%E5%88%9B%E5%BB%BA%E7%9F%A2%E9%87%8F%E6%89%81%E5%B9%B3%E5%9C%B0%E5%9B%BE/"/>
-    <id>http://yoursite.com/2017/01/12/AI基础教程！教你创建矢量扁平地图/</id>
-    <published>2017-01-11T16:00:00.000Z</published>
-    <updated>2017-02-22T11:07:38.906Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;
-    
-    </summary>
-    
-    
-      <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>友谊之光</title>
-    <link href="http://yoursite.com/2017/01/11/%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89/"/>
-    <id>http://yoursite.com/2017/01/11/友谊之光/</id>
-    <published>2017-01-10T16:00:00.000Z</published>
-    <updated>2017-02-22T11:06:30.283Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><video width="100%" height="100%" controls><br><source src="http://leif.ml/Video/NEW%202016%20%E3%80%8A%E6%BE%B3%E9%97%A8%E9%A3%8E%E4%BA%913%E3%80%8B%E3%80%8A%E8%B5%8C%E5%9F%8E%E9%A3%8E%E4%BA%913%E3%80%8B-%20%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89%20-%20%E7%9B%91%E7%8B%B1%E9%A3%8E%E4%BA%91%E7%89%88%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85HD720P.mp4"><br></video>
-
-<p>人生于世上有几个知己<br>多少友谊能长存<br><a id="more"></a><br>今日别离共你双双两握手<br>友谊常在你我心里</p>
-<p>今天且要暂别<br>他朝也定能聚首<br>纵使不能会面<br>始终也是朋友</p>
-<p>说有万里山 隔阻两地遥<br>不需见面 心中也知晓<br>友谊改不了</p>
-<p>人生于世上有几个知己<br>多少友谊能长存</p>
-<p>今日别离共你双双两握手<br>友谊常在你我心里</p>
-<p>今天且要暂别<br>他朝也定能聚首<br>纵使不能会面<br>始终也是朋友</p>
-<p>说有万里山 隔阻两地遥<br>不需见面 心中也知晓<br>友谊改不了</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls&gt;&lt;br&gt;&lt;source src=&quot;http://leif.ml/Video/NEW%202016%20%E3%80%8A%E6%BE%B3%E9%97%A8%E9%A3%8E%E4%BA%913%E3%80%8B%E3%80%8A%E8%B5%8C%E5%9F%8E%E9%A3%8E%E4%BA%913%E3%80%8B-%20%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89%20-%20%E7%9B%91%E7%8B%B1%E9%A3%8E%E4%BA%91%E7%89%88%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85HD720P.mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;
-
-&lt;p&gt;人生于世上有几个知己&lt;br&gt;多少友谊能长存&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
-    
-  </entry>
-  
-  <entry>
     <title>图标设计方法2017</title>
     <link href="http://yoursite.com/2017/01/11/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%952017/"/>
     <id>http://yoursite.com/2017/01/11/图标设计方法2017/</id>
@@ -601,6 +627,37 @@
     
     
       <category term="知识" scheme="http://yoursite.com/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>友谊之光</title>
+    <link href="http://yoursite.com/2017/01/11/%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89/"/>
+    <id>http://yoursite.com/2017/01/11/友谊之光/</id>
+    <published>2017-01-10T16:00:00.000Z</published>
+    <updated>2017-02-22T11:06:30.283Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><video width="100%" height="100%" controls><br><source src="http://leif.ml/Video/NEW%202016%20%E3%80%8A%E6%BE%B3%E9%97%A8%E9%A3%8E%E4%BA%913%E3%80%8B%E3%80%8A%E8%B5%8C%E5%9F%8E%E9%A3%8E%E4%BA%913%E3%80%8B-%20%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89%20-%20%E7%9B%91%E7%8B%B1%E9%A3%8E%E4%BA%91%E7%89%88%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85HD720P.mp4"><br></video>
+
+<p>人生于世上有几个知己<br>多少友谊能长存<br><a id="more"></a><br>今日别离共你双双两握手<br>友谊常在你我心里</p>
+<p>今天且要暂别<br>他朝也定能聚首<br>纵使不能会面<br>始终也是朋友</p>
+<p>说有万里山 隔阻两地遥<br>不需见面 心中也知晓<br>友谊改不了</p>
+<p>人生于世上有几个知己<br>多少友谊能长存</p>
+<p>今日别离共你双双两握手<br>友谊常在你我心里</p>
+<p>今天且要暂别<br>他朝也定能聚首<br>纵使不能会面<br>始终也是朋友</p>
+<p>说有万里山 隔阻两地遥<br>不需见面 心中也知晓<br>友谊改不了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;video width=&quot;100%&quot; height=&quot;100%&quot; controls&gt;&lt;br&gt;&lt;source src=&quot;http://leif.ml/Video/NEW%202016%20%E3%80%8A%E6%BE%B3%E9%97%A8%E9%A3%8E%E4%BA%913%E3%80%8B%E3%80%8A%E8%B5%8C%E5%9F%8E%E9%A3%8E%E4%BA%913%E3%80%8B-%20%E5%8F%8B%E8%B0%8A%E4%B9%8B%E5%85%89%20-%20%E7%9B%91%E7%8B%B1%E9%A3%8E%E4%BA%91%E7%89%88%E5%AE%8C%E6%95%B4%E9%AB%98%E6%B8%85HD720P.mp4&quot;&gt;&lt;br&gt;&lt;/video&gt;
+
+&lt;p&gt;人生于世上有几个知己&lt;br&gt;多少友谊能长存&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
     
   </entry>
   
@@ -783,27 +840,6 @@ font-family: Arial, &quot;Microsoft YaHei&quot;, &quot;微软雅黑&quot;, sans-
   </entry>
   
   <entry>
-    <title>哥伦比亚选美 灰姑娘们的浮生记</title>
-    <link href="http://yoursite.com/2017/01/09/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%80%89%E7%BE%8E%20%E7%81%B0%E5%A7%91%E5%A8%98%E4%BB%AC%E7%9A%84%E6%B5%AE%E7%94%9F%E8%AE%B0/"/>
-    <id>http://yoursite.com/2017/01/09/哥伦比亚选美 灰姑娘们的浮生记/</id>
-    <published>2017-01-08T16:00:00.000Z</published>
-    <updated>2017-02-22T11:04:13.961Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Carl Bower，美国纪实摄影师，超过15年工作经历，现居丹佛，作品曾发表于《纽约时报》、《TIME》、《华盛顿邮报》、《新闻周刊》等众多刊物。<br><a id="more"></a><br><img src="http://pic.yupoo.com/designlei/G8xdWlhA/3q8U3.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWAy1/aRAij.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWGbG/AYqQ5.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWMOW/COadG.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWUga/X7MAs.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdX0Xx/UH2V3.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdX8Jr/T5BJ0.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXfkg/T3zBy.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXmmP/oG16D.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXvXp/ndg4k.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXCEe/R2uJv.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXLJM/Dut7q.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXVAC/uC3Dy.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdY3Bb/cahwD.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdYb9d/kA3qP.jpg" alt="哥伦比亚选美"></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Carl Bower，美国纪实摄影师，超过15年工作经历，现居丹佛，作品曾发表于《纽约时报》、《TIME》、《华盛顿邮报》、《新闻周刊》等众多刊物。&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="美图" scheme="http://yoursite.com/tags/%E7%BE%8E%E5%9B%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>哪里学设计！你知道这些网上美术馆么？</title>
     <link href="http://yoursite.com/2017/01/09/%E5%93%AA%E9%87%8C%E5%AD%A6%E8%AE%BE%E8%AE%A1%EF%BC%81%E4%BD%A0%E7%9F%A5%E9%81%93%E8%BF%99%E4%BA%9B%E7%BD%91%E4%B8%8A%E7%BE%8E%E6%9C%AF%E9%A6%86%E4%B9%88%EF%BC%9F/"/>
     <id>http://yoursite.com/2017/01/09/哪里学设计！你知道这些网上美术馆么？/</id>
@@ -869,25 +905,23 @@ font-family: Arial, &quot;Microsoft YaHei&quot;, &quot;微软雅黑&quot;, sans-
   </entry>
   
   <entry>
-    <title>四海</title>
-    <link href="http://yoursite.com/2017/01/08/%E5%9B%9B%E6%B5%B7/"/>
-    <id>http://yoursite.com/2017/01/08/四海/</id>
-    <published>2017-01-07T16:00:00.000Z</published>
-    <updated>2017-02-21T00:23:03.646Z</updated>
+    <title>哥伦比亚选美 灰姑娘们的浮生记</title>
+    <link href="http://yoursite.com/2017/01/09/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%80%89%E7%BE%8E%20%E7%81%B0%E5%A7%91%E5%A8%98%E4%BB%AC%E7%9A%84%E6%B5%AE%E7%94%9F%E8%AE%B0/"/>
+    <id>http://yoursite.com/2017/01/09/哥伦比亚选美 灰姑娘们的浮生记/</id>
+    <published>2017-01-08T16:00:00.000Z</published>
+    <updated>2017-02-22T11:04:13.961Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><video width="100%" height="100%" id="video" controls preload="none" poster="http://ognso78fw.bkt.clouddn.com/%E5%9B%9B%E6%B5%B7cover.jpg"><br>      <source id="mp4" src="http://leif.ml/Video/%E5%9B%9B%E6%B5%B7.mp4" type="video/mp4"><br>    </video>
-
-<a id="more"></a>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Carl Bower，美国纪实摄影师，超过15年工作经历，现居丹佛，作品曾发表于《纽约时报》、《TIME》、《华盛顿邮报》、《新闻周刊》等众多刊物。<br><a id="more"></a><br><img src="http://pic.yupoo.com/designlei/G8xdWlhA/3q8U3.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWAy1/aRAij.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWGbG/AYqQ5.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWMOW/COadG.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdWUga/X7MAs.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdX0Xx/UH2V3.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdX8Jr/T5BJ0.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXfkg/T3zBy.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXmmP/oG16D.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXvXp/ndg4k.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXCEe/R2uJv.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXLJM/Dut7q.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdXVAC/uC3Dy.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdY3Bb/cahwD.jpg" alt="哥伦比亚选美"><br><img src="http://pic.yupoo.com/designlei/G8xdYb9d/kA3qP.jpg" alt="哥伦比亚选美"></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;video width=&#39;100%&#39; height=&#39;100%&#39; id=&quot;video&quot; controls=&quot;&quot; preload=&quot;none&quot; poster=&quot;http://ognso78fw.bkt.clouddn.com/%E5%9B%9B%E6%B5%B7cover.jpg&quot; &gt;&lt;br&gt;      &lt;source id=&quot;mp4&quot; src=&quot;http://leif.ml/Video/%E5%9B%9B%E6%B5%B7.mp4&quot; type=&quot;video/mp4&quot;&gt;&lt;br&gt;    &lt;/video&gt;
+      &lt;p&gt;Carl Bower，美国纪实摄影师，超过15年工作经历，现居丹佛，作品曾发表于《纽约时报》、《TIME》、《华盛顿邮报》、《新闻周刊》等众多刊物。&lt;br&gt;
     
     </summary>
     
     
-      <category term="视频" scheme="http://yoursite.com/tags/%E8%A7%86%E9%A2%91/"/>
+      <category term="美图" scheme="http://yoursite.com/tags/%E7%BE%8E%E5%9B%BE/"/>
     
   </entry>
   
